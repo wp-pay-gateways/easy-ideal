@@ -16,5 +16,6 @@ class Pronamic_WP_Pay_Gateways_EasyIDeal_Integration extends Pronamic_WP_Pay_Gat
 		$this->url           = 'http://www.easy-ideal.com/';
 		$this->dashboard_url = 'https://www.qantanipayments.com/backoffice/login/';
 		$this->provider      = 'easy-ideal';
+		$this->deprecated    = true;
 	}
 }
