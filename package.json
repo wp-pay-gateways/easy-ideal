@@ -13,7 +13,9 @@
     "ideal",
     "basic",
     "gateway",
-    "pronamic"
+    "pronamic",
+    "qantani",
+    "deprecated",
   ],
   "author": {
     "name": "Pronamic",

@@ -1,4 +1,4 @@
-# WordPress Pay Gateway: Easy iDeal
+# [DEPRECATED] WordPress Pay Gateway: Easy iDeal
 
 **Easy iDeal driver for the WordPress payment processing library.**
 
