@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/easy-ideal",
-	"description": "ABN AMRO - iDEAL Only Kassa driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "qantani", "ideal", "easy", "gateway", "pronamic"],
+	"description": "Easy iDeal driver for the WordPress payment processing library.",
+	"keywords": ["wordpress", "wp", "pay", "qantani", "ideal", "easy", "gateway", "pronamic", "deprecated"],
 	"homepage": "http://www.wp-pay.org/gateways/easy-ideal/",
 	"license": "GPL",
 	"authors": [
